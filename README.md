@@ -4,7 +4,7 @@ A clean, responsive dashboard template built using **pure HTML and CSS**, showca
 
 ##  Preview
 
-![Dashboard Screenshot](https://mahmoud25osama.github.io/Dashboard_Html_Css/)
+![Dashboard](https://mahmoud25osama.github.io/Dashboard_Html_Css/)
 
 ---
 
